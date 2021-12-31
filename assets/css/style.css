@@ -1,0 +1,75 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background: #222;
+    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    font-size: 120%;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 400;
+  letter-spacing: 3px;
+  color: #f8f8ff;
+}
+
+#weatherContent {
+  display: none;
+}
+
+.navbar {
+  height: 150px!important;
+}
+
+
+
+#searchResults {
+  height: 100vh;
+}
+
+#fiveDay .card {
+  border: 1px solid white!important;
+}
+
+#searchHistory li {
+  background-color: #97A6A4;
+  color: #f8f8ff!important;
+}
+
+p {
+  color: #D9B779;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Raleway', sans-serif;
+}
+
+h2, h3, h4, h5 {
+  color: #f8f8ff;
+}
+
+  .weather.loading {
+    visibility: hidden;
+    max-height: 20px;
+    position: relative;
+  }
+  
+  .weather.loading:after {
+    visibility: visible;
+    content: "Loading...";
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 20px;
+  }
