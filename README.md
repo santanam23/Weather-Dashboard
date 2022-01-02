@@ -21,6 +21,6 @@ WHEN I click on a city in the search history
 
 THEN I am again presented with current and future conditions for that city
 
-<img width="1440" alt="Screen Shot 2022-01-02 at 2 46 16 PM" src="https://user-images.githubusercontent.com/94243898/147889051-08a772e7-d2f8-4191-9843-5673fb3397c4.png">
+<img width="1440" alt="Screen Shot 2022-01-02 at 2 50 57 PM" src="https://user-images.githubusercontent.com/94243898/147889161-891b0512-7884-48cb-a4a6-80e7af23065d.png">
+<img width="1362" alt="Screen Shot 2022-01-02 at 2 51 08 PM" src="https://user-images.githubusercontent.com/94243898/147889164-d527b7f9-d5a6-49bf-8a04-b10f3df984a2.png">
 
-<img width="1440" alt="Screen Shot 2022-01-02 at 2 46 21 PM" src="https://user-images.githubusercontent.com/94243898/147889056-fdf9d7e5-ec6d-4e88-9958-5757894ca526.png">
